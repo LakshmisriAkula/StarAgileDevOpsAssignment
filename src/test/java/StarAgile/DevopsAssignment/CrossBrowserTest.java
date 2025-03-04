@@ -37,7 +37,7 @@ public class CrossBrowserTest {
 			System.out.println("Session created on Edge!");
 		}
 
-		// open applicationn
+		// open application
 		System.out.println("Remote driver connectivity is completed!");
 		Thread.sleep(10000);
 		driver.get("https://www.amazon.in");
